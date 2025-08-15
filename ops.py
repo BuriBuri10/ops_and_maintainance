@@ -259,7 +259,7 @@ def run_inventory_optimization_milp(inventory_df, budget, service_level):
 # --- UI Pages ---
 def home_page():
     st.image("https://placehold.co/1200x300/003262/FFFFFF?text=Beyond+The+Horizon...", use_container_width=True)
-    st.title("**Unimatics** ✈ for UA Operations Optimization")
+    st.title("**Unimatics**  ✈  for UA Operations Optimization")
     st.markdown("Welcome... PLUS ULTRA!")
     st.markdown("This UA Operations dashboard runs Gurobi solvers for all five operations --")
     st.info("Aircraft Route Optimization")
